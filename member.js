@@ -2,16 +2,16 @@ export const club_member_details = [
 
   {
     id: 8,
-    firstname: 'Asish',
-    fullname: 'Asish Panigrahi',
+    firstname: 'Hritesh',
+    fullname: 'Hritesh Sharma',
     description: `interest for web development and Cloud Computing.`,
     desgination: 'Web Developer',
     member_type: 'Operational Lead',
     member:"student",
-    profile_img: 'https://avatars.githubusercontent.com/u/95563674?v=4',
-    linkedln_link: `https://www.linkedin.com/in/asish-panigrahi-a43439175`,
-    github_link: `https://github.com/Tugi01`,
-    year: '2020'
+    profile_img: 'https://avatars.githubusercontent.com/u/141414823?s=400&u=0e38794bf5afe3c24ba1cc3fc2c2c7ed4047505d&v=4',
+    linkedln_link: `https://www.linkedin.com/in/hritesh-sharma-42877b290/`,
+    github_link: `https://github.com/hrit5972`,
+    year: '2022'
   },
   {
     id: 12,
@@ -396,19 +396,6 @@ export const admin_data = [
     name: 'Sambit Sargam Ekalabya',
     year: 2020
   },
-  {
-    id: 12,
-    firstname: 'Arpan',
-    fullname: 'Arpan',
-    description: ` Android Development, Web development, Cloud Computing. \n"Aspire to contribute to the global impact for betterment of society and mankind"\n`,
-    desgination: 'Junior Full stack developer',
-    member_type: 'Core Member',
-    member:"student",
-    profile_img: 'https://avatars.githubusercontent.com/u/111677648?v=4',
-    linkedln_link: `https://www.linkedin.com/in/arpanpadhi/`,
-    github_link: `https://github.com/beingtechsavy`,
-    year: '2026'
-  },
 ]
 
 
@@ -441,18 +428,5 @@ export const club_advisor_details = [
     linkedln_link: ``,
     github_link: ``,
     year: ''
-  },
-  {
-    id: 11,
-    firstname: 'Bibhuti',
-    fullname: 'Bibhuti Bhusan Sahu',
-    description: `interest in coding and web development.`,
-    desgination: '',
-    member_type: 'Core member',
-    member:"student",
-    profile_img: 'https://avatars.githubusercontent.com/u/141359294?v=4',
-    linkedln_link: `https://www.linkedin.com/in/bibhuti-sahu-b2996226b`,
-    github_link: `https://github.com/sahubibhuti0192`,
-    year: '2022'
   },
 ];
